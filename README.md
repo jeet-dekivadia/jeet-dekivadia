@@ -18,9 +18,9 @@ I'm an incoming freshman at [Georgia Institute of Technology](https://www.gatech
 ## 💡 Projects
 Here are a few projects I've worked on recently:
 
-### [ProjectName](https://github.com/jeet-dekivadia/ProjectName)
-- **Description:** ABC
-- **Highlights:** XYZ
+### [Personal Portfolio](https://github.com/jeet-dekivadia/jeet-dekivadia.github.io)
+- **Description:** Build a peronal website using HTML, CSS(Bootstrap) and JS(Bootstrap and JQuery)
+- **Highlights:** First coding project at my Headstarter AI fellowship
 
 ### [ProjectName](https://github.com/jeet-dekivadia/ProjectName)
 - **Description:** ABC
@@ -42,6 +42,6 @@ Here are a few projects I've worked on recently:
 - Selected as a Software Engineering Fellow with HeadStarter.
   
 ## 🌟 Featured Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeet-dekivadia&repo=ProjectName&theme=radical)](https://github.com/jeet-dekivadia/ProjectName)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeet-dekivadia&repo=https://jeet-dekivadia.github.io/&theme=radical)](https://github.com/jeet-dekivadia/https://jeet-dekivadia.github.io/)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeet-dekivadia&repo=ProjectName&theme=radical)](https://github.com/jeet-dekivadia/ProjectName)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeet-dekivadia&repo=ProjectName&theme=radical)](https://github.com/jeet-dekivadia/ProjectName)
