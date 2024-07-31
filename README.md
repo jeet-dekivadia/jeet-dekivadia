@@ -18,13 +18,13 @@ I'm an incoming freshman at [Georgia Institute of Technology](https://www.gatech
 ## 💡 Projects
 Here are a few projects I've worked on recently:
 
-### [Personal Portfolio](https://github.com/jeet-dekivadia/jeet-dekivadia.github.io)
-- **Description:** Build a peronal website using HTML, CSS(Bootstrap) and JS(Bootstrap and JQuery)
+### [Personal Portfolio](https://jeet-dekivadia.vercel.app/)
+- **Description:** Build a peronal website using TSX, JS, and CSS
 - **Highlights:** First coding project at my Headstarter AI fellowship
 
-### [ProjectName](https://github.com/jeet-dekivadia/ProjectName)
-- **Description:** ABC
-- **Highlights:** XYZ
+### [Pantry Tracker](https://pantry-tracker-by-jeet.vercel.app/)
+- **Description:** Built a basic pantry tracker
+- **Highlights:** Uses Spoonacular API to recommend recipes based on available pantry.
 
 ### [ProjectName](https://github.com/jeet-dekivadia/ProjectName)
 - **Description:** ABC
@@ -33,7 +33,7 @@ Here are a few projects I've worked on recently:
 ## ✨ Fun Facts
 - 📚 I love reading about the latest trends in technology and AI.
 - 🌍 I'm originally from Gujarat, India; did my high school in Sohar, Oman and currently studying in the USA.
-- 🏋️‍♂️ I enjoy creating workouting out.
+- 🏋️‍♂️ I enjoy workouting out.
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/jeetdekivadia/)
@@ -42,6 +42,6 @@ Here are a few projects I've worked on recently:
 - Selected as a Software Engineering Fellow with HeadStarter.
   
 ## 🌟 Featured Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeet-dekivadia&repo=jeet-dekivadia.github.io/&theme=radical)](https://github.com/jeet-dekivadia/jeet-dekivadia.github.io/)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeet-dekivadia&repo=ProjectName&theme=radical)](https://github.com/jeet-dekivadia/ProjectName)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeet-dekivadia&repo=personal-website/&theme=radical)](https://github.com/jeet-dekivadia/personal-website)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeet-dekivadia&repo=pantry-tracker&theme=radical)](https://github.com/jeet-dekivadia/pantry-tracker)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeet-dekivadia&repo=ProjectName&theme=radical)](https://github.com/jeet-dekivadia/ProjectName)
