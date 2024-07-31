@@ -42,6 +42,6 @@ Here are a few projects I've worked on recently:
 - Selected as a Software Engineering Fellow with HeadStarter.
   
 ## 🌟 Featured Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeet-dekivadia&repo=personal-website/&theme=radical)](https://github.com/jeet-dekivadia/personal-website)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeet-dekivadia&repo=personal-website&theme=radical)](https://github.com/jeet-dekivadia/personal-website)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeet-dekivadia&repo=pantry-tracker&theme=radical)](https://github.com/jeet-dekivadia/pantry-tracker)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeet-dekivadia&repo=ProjectName&theme=radical)](https://github.com/jeet-dekivadia/ProjectName)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeet-dekivadia&repo=pantry-tracker&theme=radical)](https://github.com/jeet-dekivadia/pantry-tracker)
