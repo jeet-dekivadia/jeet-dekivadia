@@ -26,9 +26,9 @@ Here are a few projects I've worked on recently:
 - **Description:** Built a basic pantry tracker
 - **Highlights:** Uses Spoonacular API to recommend recipes based on available pantry.
 
-### [ProjectName](https://github.com/jeet-dekivadia/ProjectName)
-- **Description:** ABC
-- **Highlights:** XYZ
+### [Pantry Tracker](https://pantry-tracker-by-jeet.vercel.app/)
+- **Description:** Built a basic pantry tracker
+- **Highlights:** Uses Spoonacular API to recommend recipes based on available pantry.
 
 ## ✨ Fun Facts
 - 📚 I love reading about the latest trends in technology and AI.
