@@ -13,7 +13,7 @@ I'm an incoming freshman at [Georgia Institute of Technology](https://www.gatech
 - **Technologies:** Git, AWS (S3, SQS)
 
 ## 📊 GitHub Stats
-![Jeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeet-dekivadia&show_icons=true&theme=radical)
+[![Jeet's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=jeet-dekivadia)](https://github.com/LordDashMe/github-contribution-stats/)
 
 ## 💡 Projects
 Here are a few projects I've worked on recently:
