@@ -1,6 +1,7 @@
 # Hi there, I'm Jeet Hirenkumar Dekivadia! 👋
 
-## 🚀 About Me
+## 🚀 About Me 
+[![committers.top badge](https://user-badge.committers.top/oman/jeet-dekivadia.svg)](https://user-badge.committers.top/oman/jeet-dekivadia)
 I'm an incoming freshman at [Georgia Institute of Technology](https://www.gatech.edu/) majoring in Computer Science with a concentration in Cyber Security and Intelligence. I'm passionate about tech, software engineering, and developing innovative solutions that make a difference.
 
 - 🌱 I’m currently learning advanced concepts in Python and exploring the world of AI and machine learning.
@@ -13,8 +14,6 @@ I'm an incoming freshman at [Georgia Institute of Technology](https://www.gatech
 - **Technologies:** Git, AWS (S3, SQS)
 
 ## 📊 GitHub Stats
-<a href="https://user-badge.committers.top/oman/jeet-dekivadia"><img src="https://user-badge.committers.top/oman/jeet-dekivadia.svg" /></a>
-
 [![Jeet's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=jeet-dekivadia)](https://github.com/LordDashMe/github-contribution-stats/)
 
 ## 💡 Projects
