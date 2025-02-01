@@ -3,7 +3,8 @@
 ## 🚀 About Me 
 [![committers.top badge](https://user-badge.committers.top/oman/jeet-dekivadia.svg)](https://user-badge.committers.top/oman/jeet-dekivadia)
 
-##Visitor Count for 2025
+## Visitor Count for 2025
+
 ![Visitor Count](https://profile-counter.glitch.me/jeet-dekivadia/count.svg)
 
 I'm an incoming freshman at [Georgia Institute of Technology](https://www.gatech.edu/) majoring in Computer Science with a concentration in Cyber Security and Intelligence. I'm passionate about tech, software engineering, and developing innovative solutions that make a difference.
