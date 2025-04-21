@@ -20,6 +20,9 @@ I'm an incoming freshman at [Georgia Institute of Technology](https://www.gatech
 ## 📊 GitHub Stats
 [![Jeet's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=jeet-dekivadia)](https://github.com/LordDashMe/github-contribution-stats/)
 
+![image](https://github.com/user-attachments/assets/c10e8ebf-5193-4e06-b91f-8619035b0287)
+
+
 ## 💡 Projects
 Here are a few projects I've worked on recently:
 
