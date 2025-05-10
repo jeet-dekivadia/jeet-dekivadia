@@ -6,16 +6,7 @@
 ### Visitor Count for 2025
 ![Visitor Count](https://profile-counter.glitch.me/jeet-dekivadia/count.svg)
 
-I'm an incoming freshman at [Georgia Institute of Technology](https://www.gatech.edu/) majoring in Computer Science with a concentration in Cyber Security and Intelligence. I'm passionate about tech, software engineering, and developing innovative solutions that make a difference.
-
-- 🌱 I’m currently learning advanced concepts in Python and exploring the world of AI and machine learning.
-- 💬 Ask me about anything tech-related, college life, or computer science internships.
-- 📫 How to reach me: jdekivadia3@gatech.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/jeet-dekivadia).
-
-## 🛠️ Skills
-- **Programming Languages:** Python, JavaScript, C++, HTML, CSS, SQL
-- **Frameworks:** React, Tensorflow, scikit-learn, NumPy, pandas, Flask, PyTorch
-- **Technologies:** Git, AWS (S3, SQS)
+I'm a second year student at [Georgia Institute of Technology](https://www.gatech.edu/) majoring in Computer Science with a concentration in Infonetworks and Intelligence. I'm passionate about LLM's, and ML for social good.
 
 ## 📊 GitHub Stats
 [![Jeet's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=jeet-dekivadia)](https://github.com/LordDashMe/github-contribution-stats/)
@@ -30,26 +21,44 @@ Here are a few projects I've worked on recently:
 - **Description:** Build a peronal website using TSX, JS, and CSS
 - **Highlights:** First coding project at my Headstarter AI fellowship
 
-### [Pantry Tracker](https://pantry-tracker-by-jeet.vercel.app/)
-- **Description:** Built a basic pantry tracker
-- **Highlights:** Uses Spoonacular API to recommend recipes based on available pantry.
+### [everything-cs]([https://pantry-tracker-by-jeet.vercel.app/](https://github.com/jeet-dekivadia/everything-cs))
+- **Description:** Built a cs resources repository
+- **Highlights:** Helped multiple students refer to GSoC resources
 
-### [Pantry Tracker](https://pantry-tracker-by-jeet.vercel.app/)
-- **Description:** Built a basic pantry tracker
-- **Highlights:** Uses Spoonacular API to recommend recipes based on available pantry.
+### [Ramblin Returns](https://github.com/jeet-dekivadia/ramblin-returns)  
+- **Description:** Developed a financial analytics dashboard to track and predict Georgia Tech alumni donations using real-time data and predictive modeling.  
+- **Highlights:** Won the *Innovate Finance & Tech* award presented by **Goldman Sachs** at a university hackathon.
 
-## ✨ Fun Facts
-- 📚 I love reading about the latest trends in technology and AI.
-- 🌍 I'm originally from Gujarat, India; did my high school in Sohar, Oman and currently studying in the USA.
-- 🏋️‍♂️ I enjoy workouting out.
+### [VAV2 Website](https://github.com/jeet-dekivadia/vav2-website)  
+- **Description:** Designed and built the official website for VAV2, an AI research initiative by Georgia Tech students.  
+- **Highlights:** Served as the frontend lead; implemented responsive design and streamlined navigation using React and Tailwind CSS.
+
+### [JurrasIQ](https://github.com/jeet-dekivadia/JurrasIQ)  
+- **Description:** Built an AI-powered quiz game that teaches dinosaur facts through natural language conversations with a chatbot.  
+- **Highlights:** Integrated LLMs with a custom knowledge base; featured in a showcase for educational AI applications.
+
+### [GT Research Finder Org](https://github.com/jeet-dekivadia/gt-research-finder-org)  
+- **Description:** Created a centralized research portal to help students discover GT labs and professors across departments.  
+- **Highlights:** Used Firebase and Algolia for search; helped 100+ students find research opportunities.
+
+### [Orion](https://github.com/jeet-dekivadia/orion)  
+- **Description:** Built a secure, self-hostable password manager for developers and teams using Go and SQLite.  
+- **Highlights:** Focused on performance and offline-first design; featured AES-256 encryption and GitHub Actions CI pipeline.
+
+### [Watchdog AI@ATL](https://github.com/jeet-dekivadia/watchdog-aiatl)  
+- **Description:** Developed a surveillance bias detector for city traffic cams using computer vision and demographic fairness metrics.  
+- **Highlights:** Presented at AI@ATL; project raised awareness about algorithmic bias in public infrastructure.
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/jeetdekivadia/)
 
-## 🏆 Achievements
-- Selected as a Software Engineering Fellow with HeadStarter.
-  
 ## 🌟 Featured Repositories
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeet-dekivadia&repo=personal-website&theme=radical)](https://github.com/jeet-dekivadia/personal-website)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeet-dekivadia&repo=pantry-tracker&theme=radical)](https://github.com/jeet-dekivadia/pantry-tracker)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeet-dekivadia&repo=pantry-tracker&theme=radical)](https://github.com/jeet-dekivadia/pantry-tracker)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeet-dekivadia&repo=ramblin-returns&theme=radical)](https://github.com/jeet-dekivadia/ramblin-returns)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeet-dekivadia&repo=vav2-website&theme=radical)](https://github.com/jeet-dekivadia/vav2-website)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeet-dekivadia&repo=JurrasIQ&theme=radical)](https://github.com/jeet-dekivadia/JurrasIQ)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeet-dekivadia&repo=gt-research-finder-org&theme=radical)](https://github.com/jeet-dekivadia/gt-research-finder-org)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeet-dekivadia&repo=orion&theme=radical)](https://github.com/jeet-dekivadia/orion)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeet-dekivadia&repo=watchdog-aiatl&theme=radical)](https://github.com/jeet-dekivadia/watchdog-aiatl)
+
