@@ -21,7 +21,7 @@ Here are a few projects I've worked on recently:
 - **Description:** Build a peronal website using TSX, JS, and CSS
 - **Highlights:** First coding project at my Headstarter AI fellowship
 
-### [everything-cs]([https://pantry-tracker-by-jeet.vercel.app/](https://github.com/jeet-dekivadia/everything-cs))
+### [everything-cs](https://github.com/jeet-dekivadia/everything-cs)
 - **Description:** Built a cs resources repository
 - **Highlights:** Helped multiple students refer to GSoC resources
 
@@ -34,12 +34,12 @@ Here are a few projects I've worked on recently:
 - **Highlights:** Served as the frontend lead; implemented responsive design and streamlined navigation using React and Tailwind CSS.
 
 ### [JurrasIQ](https://github.com/jeet-dekivadia/JurrasIQ)  
-- **Description:** Built an AI-powered quiz game that teaches dinosaur facts through natural language conversations with a chatbot.  
-- **Highlights:** Integrated LLMs with a custom knowledge base; featured in a showcase for educational AI applications.
+- **Description:** Built an AI-powered archeological tool 
+- **Highlights:** USe Maps API and OpenAI API for autmating 95% of acheologists' work
 
 ### [GT Research Finder Org](https://github.com/jeet-dekivadia/gt-research-finder-org)  
 - **Description:** Created a centralized research portal to help students discover GT labs and professors across departments.  
-- **Highlights:** Used Firebase and Algolia for search
+- **Highlights:** Used Firebase, MongDB and OpenAI API for user integration
 
 ### [Orion](https://github.com/jeet-dekivadia/orion)  
 - **Description:** Built a secure, self-hostable password manager for developers and teams using Go and SQLite.  
