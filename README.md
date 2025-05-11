@@ -39,7 +39,7 @@ Here are a few projects I've worked on recently:
 
 ### [GT Research Finder Org](https://github.com/jeet-dekivadia/gt-research-finder-org)  
 - **Description:** Created a centralized research portal to help students discover GT labs and professors across departments.  
-- **Highlights:** Used Firebase and Algolia for search; helped 100+ students find research opportunities.
+- **Highlights:** Used Firebase and Algolia for search
 
 ### [Orion](https://github.com/jeet-dekivadia/orion)  
 - **Description:** Built a secure, self-hostable password manager for developers and teams using Go and SQLite.  
