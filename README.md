@@ -6,7 +6,7 @@
 ### Visitor Count for 2025
 ![Visitor Count](https://profile-counter.glitch.me/jeet-dekivadia/count.svg)
 
-I'm a second year student at [Georgia Institute of Technology](https://www.gatech.edu/) majoring in Computer Science with a concentration in Infonetworks and Intelligence. I'm passionate about LLM's, and ML for social good.
+I'm a second year student at [Georgia Institute of Technology](https://www.gatech.edu/) majoring in Computer Science with a concentration in Infonetworks and Intelligence. I'm passionate about LLM's, and ML for science and social good.
 
 ## 📊 GitHub Stats
 [![Jeet's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=jeet-dekivadia)](https://github.com/LordDashMe/github-contribution-stats/)
