@@ -1,7 +1,6 @@
 # Hi there, I'm Jeet Hirenkumar Dekivadia! 👋
 
 ## 🚀 About Me 
-[![committers.top badge](https://user-badge.committers.top/oman/jeet-dekivadia.svg)](https://user-badge.committers.top/oman/jeet-dekivadia)
 
 ### Visitor Count for 2025
 ![Visitor Count](https://profile-counter.glitch.me/jeet-dekivadia/count.svg)
