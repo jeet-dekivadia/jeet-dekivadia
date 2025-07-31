@@ -2,9 +2,6 @@
 
 ## 🚀 About Me 
 
-### Visitor Count for 2025
-![Visitor Count](https://profile-counter.glitch.me/jeet-dekivadia/count.svg)
-
 Current Project - ![June](https://github.com/june-dating/june)
 
 I'm a second year student at [Georgia Institute of Technology](https://www.gatech.edu/) majoring in Computer Science with a concentration in Infonetworks and Intelligence. I'm passionate about LLM's, and ML for science and social good.
